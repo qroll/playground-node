@@ -1,0 +1,36 @@
+{
+  "name": "hello-firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:firebase": "node ./firebase-remote-config"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cancelable-promise": "^2.4.1",
+    "cypress": "^3.1.5",
+    "express": "^4.17.1",
+    "firebase-admin": "^6.5.0",
+    "googleapis": "^36.0.0",
+    "http-proxy-middleware": "^0.19.1",
+    "lodash": "^4.17.11",
+    "moment": "^2.24.0",
+    "nightmare": "^3.0.1",
+    "p-cancelable": "^2.0.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "winston": "^2.4.4"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.3.3",
+    "@babel/node": "^7.2.2",
+    "@babel/plugin-transform-runtime": "^7.2.0",
+    "@babel/preset-env": "^7.3.1",
+    "@babel/runtime": "^7.4.4",
+    "jest": "^24.8.0",
+    "nodemon": "^1.19.1"
+  }
+}
