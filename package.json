@@ -13,7 +13,7 @@
     "cypress": "^3.1.5",
     "express": "^4.17.1",
     "firebase-admin": "^6.5.0",
-    "googleapis": "^36.0.0",
+    "googleapis": "^39.1.0",
     "http-proxy-middleware": "^0.19.1",
     "lodash": "^4.17.11",
     "moment": "^2.24.0",
